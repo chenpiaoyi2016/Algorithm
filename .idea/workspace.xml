@@ -5,30 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07075af1-3189-4aaa-a579-5471094dd61a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/Kmp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BinarySearcheAAAA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BinaryTreePreorderTraversal_144.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ContainerWithMostWater_11.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FindFirstMissing.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FindMinimuminRotatedSortedArrayII_154.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FourSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GenerateParentheses_22.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HouseRobberIII_337.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MaxDepthOfTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MaxProfit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MinPathSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Permutation_II_47.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ReorderList_143.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SortedArraytoBinarySearchTree_108.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Subsets.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SumRootToLeafNumbers_129.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ThreeSumClosest_16.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ThreeSum_15.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/UF.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Leetcode.iml" afterPath="$PROJECT_DIR$/Leetcode.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Permutations_46.java" afterPath="$PROJECT_DIR$/src/Permutations_46.java" />
     </list>
     <ignored path="Leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -77,8 +54,8 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+            <state relative-caret-position="462">
+              <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -843,7 +820,7 @@
       <workItem from="1481686775660" duration="598000" />
       <workItem from="1481767679727" duration="3069000" />
       <workItem from="1484202569132" duration="3132000" />
-      <workItem from="1484533089887" duration="644000" />
+      <workItem from="1484533089887" duration="665000" />
     </task>
     <task id="LOCAL-00001" summary="git.ignore">
       <created>1477467821305</created>
@@ -880,11 +857,18 @@
       <option name="project" value="LOCAL" />
       <updated>1477553182193</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="delete">
+      <created>1484533765772</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1484533765772</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126511000" />
+    <option name="totallyTimeSpent" value="126532000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -901,6 +885,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882273" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882273" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882273" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -920,7 +905,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882273" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22056833" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1313,8 +1297,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        <state relative-caret-position="462">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
           <folding />
         </state>
       </provider>
