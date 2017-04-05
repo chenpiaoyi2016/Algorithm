@@ -2,79 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07075af1-3189-4aaa-a579-5471094dd61a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BUPT/Floyed.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BUPT/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Hihocoder/Aho_Corasick_Automation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Hihocoder/KMP.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Hihocoder/LCA_path.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Hihocoder/LCA_tarjan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Hihocoder/LongestPalindromicSubstring.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Hihocoder/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Hihocoder/RMQ_AC_JAVA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Hihocoder/RMQ_ST.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Hihocoder/RMQ_ST_bestjava.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Hihocoder/RMQ_SegmentTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Hihocoder/RMQ_force_1070.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Hihocoder/trie.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/BinaryTreeMaximumPathSum_124.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/ContainerWithMostWater_11.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/LongestConsecutiveSequence_128.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/NumberOfIsland_200.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/ReverseStringII_541.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ContainerWithMostWater_11.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/BSTIterator_173.java" afterPath="$PROJECT_DIR$/src/Leetcode/BSTIterator_173.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/BinarySearcheAAAA.java" afterPath="$PROJECT_DIR$/src/Leetcode/BinarySearcheAAAA.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/BinaryTreeLevelOrderTraversalII.java" afterPath="$PROJECT_DIR$/src/Leetcode/BinaryTreeLevelOrderTraversalII.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/BinaryTreeLevelOrderTraversal_102.java" afterPath="$PROJECT_DIR$/src/Leetcode/BinaryTreeLevelOrderTraversal_102.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/BinaryTreePostorderTraversal_145.java" afterPath="$PROJECT_DIR$/src/Leetcode/BinaryTreePostorderTraversal_145.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/BinaryTreePreorderTraversal_144.java" afterPath="$PROJECT_DIR$/src/Leetcode/BinaryTreePreorderTraversal_144.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/CombinationSumIII_216.java" afterPath="$PROJECT_DIR$/src/Leetcode/CombinationSumIII_216.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/CombinationSumII_40.java" afterPath="$PROJECT_DIR$/src/Leetcode/CombinationSumII_40.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/CombinationSumIV_377.java" afterPath="$PROJECT_DIR$/src/Leetcode/CombinationSumIV_377.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/CombinationSum_39.java" afterPath="$PROJECT_DIR$/src/Leetcode/CombinationSum_39.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/FindFirstMissing.java" afterPath="$PROJECT_DIR$/src/Leetcode/FindFirstMissing.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/FindMinimuminRotatedSortedArrayII_154.java" afterPath="$PROJECT_DIR$/src/Leetcode/FindMinimuminRotatedSortedArrayII_154.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/FindTheDifference_389.java" afterPath="$PROJECT_DIR$/src/Leetcode/FindTheDifference_389.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/FirstMissingPositive.java" afterPath="$PROJECT_DIR$/src/Leetcode/FirstMissingPositive.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/FizzBuss_412.java" afterPath="$PROJECT_DIR$/src/Leetcode/FizzBuss_412.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/FourSum.java" afterPath="$PROJECT_DIR$/src/Leetcode/FourSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/GenerateParentheses_22.java" afterPath="$PROJECT_DIR$/src/Leetcode/GenerateParentheses_22.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/HouseRobber198.java" afterPath="$PROJECT_DIR$/src/Leetcode/HouseRobber198.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/HouseRobberIII_337.java" afterPath="$PROJECT_DIR$/src/Leetcode/HouseRobberIII_337.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/IntersectionofTwoLinkedLists_160.java" afterPath="$PROJECT_DIR$/src/Leetcode/IntersectionofTwoLinkedLists_160.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/LongestConsecutiveSequence_142.java" afterPath="$PROJECT_DIR$/src/Leetcode/LongestConsecutiveSequence_142.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MaxDepthOfTree.java" afterPath="$PROJECT_DIR$/src/Leetcode/MaxDepthOfTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MaxProfit.java" afterPath="$PROJECT_DIR$/src/Leetcode/MaxProfit.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MergeKSortedLists_23.java" afterPath="$PROJECT_DIR$/src/Leetcode/MergeKSortedLists_23.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MinPathSum.java" afterPath="$PROJECT_DIR$/src/Leetcode/MinPathSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MultiplyString_43.java" afterPath="$PROJECT_DIR$/src/Leetcode/MultiplyString_43.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/N_Queen_51.java" afterPath="$PROJECT_DIR$/src/Leetcode/N_Queen_51.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Permutation_II_47.java" afterPath="$PROJECT_DIR$/src/Leetcode/Permutation_II_47.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Permutations_46.java" afterPath="$PROJECT_DIR$/src/Leetcode/Permutations_46.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ReorderList_143.java" afterPath="$PROJECT_DIR$/src/Leetcode/ReorderList_143.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/RightSideView.java" afterPath="$PROJECT_DIR$/src/Leetcode/RightSideView.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SingleNumber.java" afterPath="$PROJECT_DIR$/src/Leetcode/SingleNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SingleNumberIII_260.java" afterPath="$PROJECT_DIR$/src/Leetcode/SingleNumberIII_260.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SingleNumberII_137.java" afterPath="$PROJECT_DIR$/src/Leetcode/SingleNumberII_137.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Solution.java" afterPath="$PROJECT_DIR$/src/Leetcode/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SortColors_75.java" afterPath="$PROJECT_DIR$/src/Leetcode/SortColors_75.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SortedArraytoBinarySearchTree_108.java" afterPath="$PROJECT_DIR$/src/Leetcode/SortedArraytoBinarySearchTree_108.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SubsetII_90.java" afterPath="$PROJECT_DIR$/src/Leetcode/SubsetII_90.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Subsets.java" afterPath="$PROJECT_DIR$/src/Leetcode/Subsets.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SumRootToLeafNumbers_129.java" afterPath="$PROJECT_DIR$/src/Leetcode/SumRootToLeafNumbers_129.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ThreeSumClosest_16.java" afterPath="$PROJECT_DIR$/src/Leetcode/ThreeSumClosest_16.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ThreeSum_15.java" afterPath="$PROJECT_DIR$/src/Leetcode/ThreeSum_15.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/UniqueBinarySearchTreesII_95.java" afterPath="$PROJECT_DIR$/src/Leetcode/UniqueBinarySearchTreesII_95.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/WinNimGame.java" afterPath="$PROJECT_DIR$/src/Leetcode/WinNimGame.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/fuckkkkkkkkk.java" afterPath="$PROJECT_DIR$/src/Leetcode/fuckkkkkkkkk.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/isMatch_44.java" afterPath="$PROJECT_DIR$/src/Leetcode/isMatch_44.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/longestCommonPrefix.java" afterPath="$PROJECT_DIR$/src/Leetcode/longestCommonPrefix.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/popStack.java" afterPath="$PROJECT_DIR$/src/Leetcode/popStack.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/removeNthFromEnd_19.java" afterPath="$PROJECT_DIR$/src/Leetcode/removeNthFromEnd_19.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/reverse_344.java" afterPath="$PROJECT_DIR$/src/Leetcode/reverse_344.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BUPT/Floyd.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/BUPT/Floyed.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/UF.java" afterPath="$PROJECT_DIR$/src/UF.java" />
     </list>
     <ignored path="Leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -104,35 +34,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="trie.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="trie.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Hihocoder/trie.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="74" column="20" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
+              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
               <folding>
                 <element signature="method#TrieNode#0;class#TrieNode#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RMQ_ST.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Hihocoder/RMQ_ST.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1224">
-              <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RMQ_SegmentTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Hihocoder/RMQ_SegmentTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2988">
-              <caret line="85" column="32" selection-start-line="85" selection-start-column="32" selection-end-line="85" selection-end-column="32" />
-              <folding>
-                <element signature="method#adjust#0;class#RMQ_SegmentTree#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -153,7 +61,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
               <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-              <folding />
+              <folding>
+                <element signature="e#2215#2216#0" expanded="false" />
+                <element signature="e#2247#2248#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -161,28 +72,48 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BUPT/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="25" column="13" selection-start-line="20" selection-start-column="12" selection-end-line="25" selection-end-column="13" />
+            <state relative-caret-position="180">
+              <caret line="32" column="55" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Floyed.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BUPT/Floyed.java">
+      <file leaf-file-name="uiDesigner.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+            <state relative-caret-position="-1728">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dijk.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BUPT/Dijk.java">
+      <file leaf-file-name="modules.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+            <state relative-caret-position="216">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="misc.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Floyd.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BUPT/Floyd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -191,7 +122,7 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Algorithm/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
+            <state relative-caret-position="108">
               <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
@@ -229,8 +160,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/OtherAlgotithoms/Pack01.java" />
-        <option value="$PROJECT_DIR$/src/fuckkkkkkkkk.java" />
         <option value="$PROJECT_DIR$/src/MergeKSortedLists_23.java" />
         <option value="$PROJECT_DIR$/src/SingleNumber.java" />
         <option value="$PROJECT_DIR$/src/out/Example.java" />
@@ -278,8 +207,10 @@
         <option value="$PROJECT_DIR$/src/Hihocoder/KMP.java" />
         <option value="$PROJECT_DIR$/src/Algorithm/Main.java" />
         <option value="$PROJECT_DIR$/src/BUPT/Main.java" />
+        <option value="$PROJECT_DIR$/src/BUPT/Floyed_changeLetters.java" />
         <option value="$PROJECT_DIR$/src/BUPT/Floyed.java" />
         <option value="$PROJECT_DIR$/src/BUPT/Dijk.java" />
+        <option value="$PROJECT_DIR$/src/BUPT/Floyd.java" />
       </list>
     </option>
   </component>
@@ -343,6 +274,92 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BUPT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Main.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BUPT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="copyright" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -966,7 +983,7 @@
       <workItem from="1491105892373" duration="17079000" />
       <workItem from="1491191612774" duration="836000" />
       <workItem from="1491292083826" duration="354000" />
-      <workItem from="1491390283988" duration="16000" />
+      <workItem from="1491390283988" duration="3762000" />
     </task>
     <task id="LOCAL-00001" summary="git.ignore">
       <created>1477467821305</created>
@@ -1017,11 +1034,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488937072711</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add">
+      <created>1491390325336</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1491390325336</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="262063000" />
+    <option name="totallyTimeSpent" value="265809000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1034,11 +1058,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32821724" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32585597" sideWeight="0.495685" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3211334" sideWeight="0.504315" order="7" side_tool="true" content_ui="tabs" />
@@ -1046,7 +1071,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882273" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2540453" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22006473" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32955772" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973032" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32955772" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1058,7 +1083,6 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32585597" sideWeight="0.495685" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1093,28 +1117,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/LongestConsecutiveSequence_128.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/ContainerWithMostWater_11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BUPT/LCA.java" />
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/BinarySearcheAAAA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Leetcode/BinaryTreeLevelOrderTraversal_102.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -1361,6 +1363,8 @@
         <state relative-caret-position="2988">
           <caret line="85" column="32" selection-start-line="85" selection-start-column="32" selection-end-line="85" selection-end-column="32" />
           <folding>
+            <element signature="e#1108#1109#0" expanded="false" />
+            <element signature="e#1165#1166#0" expanded="false" />
             <element signature="method#adjust#0;class#RMQ_SegmentTree#0" expanded="false" />
           </folding>
         </state>
@@ -1370,14 +1374,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithm/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1394,7 +1390,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-          <folding />
+          <folding>
+            <element signature="e#2215#2216#0" expanded="false" />
+            <element signature="e#2247#2248#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1413,37 +1412,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BUPT/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Hihocoder/trie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="25" column="13" selection-start-line="20" selection-start-column="12" selection-end-line="25" selection-end-column="13" />
+        <state relative-caret-position="306">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <folding>
+            <element signature="method#TrieNode#0;class#TrieNode#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BUPT/Floyed_changeLetters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BUPT/Floyed.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        <state relative-caret-position="540">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BUPT/Dijk.java">
+    <entry file="file://$PROJECT_DIR$/src/BUPT/Floyd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+        <state relative-caret-position="324">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hihocoder/trie.java">
+    <entry file="file://$PROJECT_DIR$/src/BUPT/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="74" column="20" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
-          <folding>
-            <element signature="method#TrieNode#0;class#TrieNode#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="32" column="55" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1728">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
