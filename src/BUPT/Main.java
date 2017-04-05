@@ -28,7 +28,7 @@ public class Main {
             /////////////////pre calc
             int sum=0;
             int tp=0;
-            int
+            //int
             for ( int j=0; j<a.length();j++){
                 if( a.charAt(j)==b.charAt(j)) continue;
                 if( map.containsKey( new charPair( a.charAt(j),b.charAt(j)) )){
