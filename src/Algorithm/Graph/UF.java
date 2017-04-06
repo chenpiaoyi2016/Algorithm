@@ -1,4 +1,5 @@
-import java.sql.Array;
+package Algorithm.Graph;
+
 import java.util.Arrays;
 import java.util.Scanner;
 
