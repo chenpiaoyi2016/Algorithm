@@ -19,4 +19,5 @@
   <component name="ThriftCompiler">
     <compilers />
   </component>
+  <component name="WebServicesPlugin" addRequiredLibraries="true" />
 </project>

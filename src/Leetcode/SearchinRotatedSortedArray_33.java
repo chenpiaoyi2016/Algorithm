@@ -1,3 +1,5 @@
+package Leetcode;
+
 /**
  * Created by cpy on 2017/2/24.
  */
